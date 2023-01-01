@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Caramel&display=swap');
+
+form {
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 100px;
+    border-color: antiquewhite;
+    background-color: rgba(0, 0, 0, 0.176);
+    color: aliceblue;
+}
+
+body {
+    /* border: 50px solid red; */
+    background-image: url(https://pipeburn.com/wp-content/uploads/2020/05/Triumph_Thruxton_R_C35A8596-Edit-1024x683.jpg);
+    background-repeat: no-repeat;
+    background-size: fill;
+    background-size: cover;
+    color: aliceblue;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'algerian';
+    font-family: 'Rubik Glitch', cursive;
+}
+
+div {
+    align-items: center;
+    width: auto;
+}
+#inp{
+    color: black;
+}

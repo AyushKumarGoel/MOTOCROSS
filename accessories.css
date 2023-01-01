@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(57, 54, 54);
+    background-repeat: no-repeat;
+    background-size: fill;
+    background-size: cover;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: 'algerian';
+    font-family: 'Rubik Glitch', cursive;
+}
+
+div {
+    align-items: center;
+    width: auto;
+}
